@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&color=17F704&background=00000018&center=true&vCenter=true&width=435&lines=Hello+world+%F0%9F%8C%8D+;Eaii+mundoo+%F0%9F%A4%99;Connect+with+me%E2%80%BC%EF%B8%8F)](https://git.io/typing-svg)
 
-# 💫 Sobre mim:
+# 💫 About me:
 💭 Meu nome é Lucas Almeida, sou curioso e uma pessoa apaixonada por aprender !<br>
 🔎 Profissional em Transição de carreira, com foco no Desenvolvimento Back-end<br>
 🔭 Graduando em Análise e desenvolvimento de sistemas na Universidade Veiga de almeida<br>
